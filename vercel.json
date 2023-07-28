@@ -1,7 +1,7 @@
 {
   "functions": {
     "app.js": {
-      "includeFiles": "url.txt"
+      "includeFiles": "app_edtunnel.js"
     }
   },
   "rewrites": [
